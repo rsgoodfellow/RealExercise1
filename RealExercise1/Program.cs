@@ -4,7 +4,8 @@
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Welcome to ITSE1302"); //console output of text
+            Console.ReadKey();
         }
     }
 }
